@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+
+# VSCode / PyCharm config
+.vscode/
+.idea/
+
+# Output files from the README generator
+README.md
+output/
+*.generated.md
+
+# Templates cache or test outputs
+*.tpl~
+examples/*.md~
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python logs and misc
+*.log
+*.bak
+*.tmp
+
